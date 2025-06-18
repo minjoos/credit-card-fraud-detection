@@ -48,9 +48,7 @@ Detect fraudulent transactions from a large dataset of credit card activity from
 - `04_model_training_lightgbm.ipynb` – Final model training & evaluation
 
 ## 🧾 Report
-- [Fraud Detection Summary Report PDF](./Homework 6 - Credit Card Account Fraud Report .pdf)
-
----
+- 📄 [EDA Summary Notebook](./report/eda_summary.ipynb)
 
 ## 💡 Key Lessons Learned
 - Importance of clean, engineered features for fraud patterns
